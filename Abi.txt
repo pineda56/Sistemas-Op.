@@ -1,0 +1,1 @@
+#1 Esto es una cadena de prueba añadida como  testfilephp.txt.
